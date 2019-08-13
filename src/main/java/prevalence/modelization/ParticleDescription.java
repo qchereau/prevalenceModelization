@@ -1,4 +1,4 @@
-package Prevalence.Modelisation;
+package prevalence.modelization;
 
 public class ParticleDescription {
 	private float x;

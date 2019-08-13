@@ -1,4 +1,4 @@
-package Prevalence.Modelisation;
+package prevalence.modelization;
 
 import java.awt.geom.Ellipse2D;
 import java.awt.Color;
